@@ -33,3 +33,4 @@ td:hover {
     color: white;
     font-weight: bold;
 }
+.today :hover{border-color: #4CAF50;}
